@@ -1,0 +1,15 @@
+<Packages>
+    <ApplicationName>OmegaBot</ApplicationName>
+    <ApplicationVersion>1.0.0</ApplicationVersion>
+    <Package>
+        <Name>com.midget.omegabot</Name>
+        <Title>OmegaBot</Title>
+        <Description>This will install OmegaBot onto your computer</Description>
+        <TreeName></TreeName>
+        <Version>b0.5.7</Version>
+        <LastUpdateDate></LastUpdateDate>
+        <InstallDate>2023-06-01</InstallDate>
+        <Size>101812220</Size>
+        <Checkable>true</Checkable>
+    </Package>
+</Packages>
