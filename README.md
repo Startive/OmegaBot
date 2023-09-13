@@ -1,3 +1,5 @@
 # OmegaBot
 
- OmegaBot source code cloned from another repository. Will make some changes to the code.
+
+TODO:
+Will try to make it so you are able to log in.
